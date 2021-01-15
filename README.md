@@ -1,4 +1,3 @@
-# Achieve3000
 List of Exercises
 1.Select employees who have any degree in "BA";
 Select * from employees where <ColumnName> like 'BA';
